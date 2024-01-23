@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,R as a}from"./chunks/framework.TypptRFE.js";const f=JSON.parse('{"title":"itlwm","description":"","frontmatter":{},"headers":[],"relativePath":"itlwm/index.md","filePath":"itlwm/index.md"}'),r={name:"itlwm/index.md"},i=a("",17),n=[i];function s(d,l,h,c,m,p){return t(),o("div",null,n)}const g=e(r,[["render",s]]);export{f as __pageData,g as default};
