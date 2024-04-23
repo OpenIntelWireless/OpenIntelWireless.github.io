@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,R as a}from"./chunks/framework.CXhC_cUg.js";const f=JSON.parse('{"title":"itlwm","description":"","frontmatter":{},"headers":[],"relativePath":"itlwm/index.md","filePath":"itlwm/index.md"}'),r={name:"itlwm/index.md"},i=a("",17),n=[i];function s(d,l,h,c,m,p){return o(),t("div",null,n)}const g=e(r,[["render",s]]);export{f as __pageData,g as default};
